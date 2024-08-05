@@ -3,7 +3,9 @@
 Plugin Name: Embed videos with Subtitles
 Description: A plugin to play embed videos with subtitles.
 Version: 1.0
-Author: https://github.com/javiermzelaya/
+Author: Javier
+Author URI:  https://github.com/javiermzelaya/
+Text Domain: GitHub
 */
 
 // Agregar el menú de configuración del plugin
