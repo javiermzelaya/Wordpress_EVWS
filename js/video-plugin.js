@@ -30,8 +30,8 @@ document.addEventListener('DOMContentLoaded', function() {
             // Crear y añadir el nuevo track
             const track = document.createElement('track');
             track.kind = 'subtitles';
-            track.label = 'Spanish';
-            track.srclang = 'es';
+            track.label = '';
+            track.srclang = '';
             track.src = url;
             videoPlayer.appendChild(track);
 
